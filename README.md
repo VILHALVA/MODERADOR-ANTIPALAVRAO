@@ -57,7 +57,7 @@ Este bot de Telegram, chamado "Bot Antipalavrão", é um moderador de grupos que
    ```
 
 ## ARQUIVO `CONFIG.json`:
-O arquivo `CONFIG.json` define a punição universal que será aplicada a qualquer usuário que enviar mensagens com links (consideradas como spam) no grupo. Aqui está um exemplo de como o arquivo deve ser estruturado:
+O arquivo `CONFIG.json` define a punição universal que será aplicada a qualquer usuário que enviar palavrões no grupo. Aqui está um exemplo de como o arquivo deve ser estruturado:
 
 ```json
 {
