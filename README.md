@@ -51,9 +51,9 @@ Este bot de Telegram, chamado "Bot Antipalavrão", é um moderador de grupos que
 - Um arquivo de texto contendo uma lista de palavras proibidas, uma por linha.
 - Exemplo de conteúdo:
    ```
-   palavrão1
-   palavrão2
-   palavrão3
+   PALAVRÃO1
+   PALAVRÃO2
+   PALAVRÃO3
    ```
 
 ## ARQUIVO `CONFIG.json`:
